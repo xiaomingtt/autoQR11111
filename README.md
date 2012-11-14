@@ -1,5 +1,6 @@
 === autoQR ===
-Contributors: williamlong
+
+Contributors: baezone
 Donate link: http://www.baezone.com/
 Tags: autoQR, QR, QR code
 Requires at least: 1.0
